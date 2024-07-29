@@ -1,0 +1,6 @@
+[submodule "docker-ng-client"]
+	path = docker-ng-client
+	url = https://github.com/SCasandra/docker-ng-client
+[submodule "docker"]
+	path = docker
+	url = https://github.com/SCasandra/docker.git
